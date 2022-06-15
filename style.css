@@ -1,0 +1,45 @@
+body {
+    margin: 5px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+}
+p{
+    text-align: center;
+}
+#plb {
+    font-weight: bold;
+}
+#main {
+    width: 93%;
+    height: cover;
+    background-color: rgba(218, 216, 216, 0.712);  
+    padding: 0 40px;  
+}
+#img-div {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+}
+img {
+    max-width: 100%;
+    max-height: 600px;
+}
+#tribute-info {
+    text-align: center;
+    padding: 20px 10%;
+}
+
+#tribute {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
